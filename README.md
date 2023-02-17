@@ -151,3 +151,18 @@ Create a program that allows the user to convert the american dollar into a prep
   2. Create a function that converts to the currencies to the nearest cent. 
   3. Pass at least two variables into the function.
 ```
+
+# Project 10 - Typing Game
+## Senerio:
+
+You and your friends want to see who can type the fastest with out any errors.
+Tasks:
+
+Create a program that will do the following:
+```
+1. Record the users, name and score for each time they play.
+2. Time how fast the user enters the phrase.
+3. Determine how many errors the user makes when entering the phrase.
+4. Have 5 unique phrases the computer uses to test the user's speed and accuracy. 
+5. Display a scoreboard with the 3 top times.
+```
